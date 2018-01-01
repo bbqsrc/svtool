@@ -1,0 +1,32 @@
+{
+  "name": "svenska-lara-sig",
+  "description": "Svenska: lära sig!",
+  "private": true,
+  "author": "Brunch",
+  "version": "0.0.1",
+  "repository": "",
+  "scripts": {
+    "start": "brunch watch --server",
+    "build": "brunch build --production"
+  },
+  "dependencies": {
+    "json-brunch": "^1.5.4",
+    "lodash": "^4.17.4",
+    "materialize-css": "^1.0.0-alpha.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-media": "^1.6.1",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "rxjs": "^5.5.6"
+  },
+  "devDependencies": {
+    "auto-reload-brunch": "^2",
+    "babel-brunch": "^6.1.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "brunch": "^2",
+    "clean-css-brunch": "^2",
+    "uglify-js-brunch": "^2"
+  }
+}
