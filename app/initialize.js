@@ -54,7 +54,9 @@ class Home extends React.Component {
       <div className="row" style={{textAlign: "center", fontSize: "8pt", "color": "#444"}}>
         <div className="col s12 m6 offset-m3">
           <a href="https://spraakbanken.gu.se/swe/resurs/kelly">Swedish Kelly-list</a> used under CC-BY-SA 3.0/LGPL 3.0 licenses.
+          {" "}
           <a href="http://folkets-lexikon.csc.kth.se">The People's English-Swedish Dictionary</a> XDXF datasets used under the CC BY-SA 2.5 license.
+          {" "}
           <a href="https://github.com/bbqsrc/svtool">This tool</a> is licensed under the ISC license.
         </div>
       </div>
